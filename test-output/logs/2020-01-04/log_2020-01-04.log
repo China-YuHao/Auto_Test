@@ -1,0 +1,3 @@
+[20:41:48,138] INFO  com.Auto_Test.Case.Test_Case_AutoInterface 获取CSV文件
+[20:41:49,705] INFO  com.Auto_Test.utils.httpclient.HttpClient_Get GET连接成功
+[20:41:50,378] INFO  com.Auto_Test.utils.httpclient.HttpClient_Get GET连接成功

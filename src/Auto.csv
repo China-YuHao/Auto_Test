@@ -1,0 +1,6 @@
+编号,接口地址,参数1：名称,参数1：值,参数2：名称,参数2：值,参数3：名称,参数3：值,连接方式
+1,https://api.apiopen.top/searchMusic,name,十年,,,,,POST
+2,https://api.apiopen.top/searchMusic,name,迷之觉悟,,,,,SET
+3,https://api.apiopen.top/searchMusic,name,雪,,,,,SET
+4,https://api.apiopen.top/searchMusic,name,勉为其难,,,,,POST
+5,https://www.kuaidi100.com/query,type,yuantong,postid,YT75322500000000,,,POST

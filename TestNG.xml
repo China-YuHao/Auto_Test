@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="接口测试脚本集" parallel="classes">
+	<!-- 注册监听 -->
+	<listeners>
+       <listener class-name="com.Auto_Test.listeners.VerifyListeners"/>
+    </listeners>
+    
+    <test preserve-order="true" name="自动化测试用例">
+        <classes>
+            <class name="com.Auto_Test.Case.Test_Case_AutoInterface" />
+        </classes>
+    </test>
+	
+</suite>

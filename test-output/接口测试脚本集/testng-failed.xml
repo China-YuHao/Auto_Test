@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [接口测试脚本集]" parallel="classes">
+  <listeners>
+    <listener class-name="com.Auto_Test.listeners.VerifyListeners"/>
+  </listeners>
+  <test name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="com.Auto_Test.Case.Test_Case_AutoInterface">
+        <methods>
+          <include name="test_case"/>
+          <include name="read"/>
+        </methods>
+      </class> <!-- com.Auto_Test.Case.Test_Case_AutoInterface -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [接口测试脚本集] -->
