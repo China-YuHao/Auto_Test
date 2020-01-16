@@ -1,6 +1,6 @@
-±àºÅ,½Ó¿ÚµØÖ·,²ÎÊı1£ºÃû³Æ,²ÎÊı1£ºÖµ,²ÎÊı2£ºÃû³Æ,²ÎÊı2£ºÖµ,²ÎÊı3£ºÃû³Æ,²ÎÊı3£ºÖµ,Á¬½Ó·½Ê½
-1,https://api.apiopen.top/searchMusic,name,Ê®Äê,,,,,POST
-2,https://api.apiopen.top/searchMusic,name,ÃÔÖ®¾õÎò,,,,,SET
-3,https://api.apiopen.top/searchMusic,name,Ñ©,,,,,SET
-4,https://api.apiopen.top/searchMusic,name,ÃãÎªÆäÄÑ,,,,,POST
+ç¼–å·,æ¥å£åœ°å€,å‚æ•°1ï¼šåç§°,å‚æ•°1ï¼šå€¼,å‚æ•°2ï¼šåç§°,å‚æ•°2ï¼šå€¼,å‚æ•°3ï¼šåç§°,å‚æ•°3ï¼šå€¼,è¿æ¥æ–¹å¼
+1,https://api.apiopen.top/searchMusic,name,åå¹´,,,,,POST
+2,https://api.apiopen.top/searchMusic,name,è¿·ä¹‹è§‰æ‚Ÿ,,,,,GET
+3,https://api.apiopen.top/searchMusic,name,é›ª,,,,,GET
+4,https://api.apiopen.top/searchMusic,name,å‹‰ä¸ºå…¶éš¾,,,,,POST
 5,https://www.kuaidi100.com/query,type,yuantong,postid,YT75322500000000,,,POST
