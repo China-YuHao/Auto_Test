@@ -51,7 +51,7 @@ public class Test_Case_AutoInterface {
 				if (csvlist.get(i)[5].toString()!=null && !"".equals(csvlist.get(i)[5].toString().trim())) {list.add(p2);}
 				if (csvlist.get(i)[7].toString()!=null && !"".equals(csvlist.get(i)[7].toString().trim())) {list.add(p3);}
 				//判断连接类型，进行不同方式的连接。
-				if ((csvlist.get(i)[8]).equals("SET")) {
+				if ((csvlist.get(i)[8]).equals("GET")) {
 					String entity = Get.Get(csvlist.get(i)[1], list);
 					System.out.println(entity);
 				} else {
